@@ -307,7 +307,7 @@ MIT License - Ver archivo `LICENSE` para detalles.
 
 ## Contacto
 
-**Desarrollador**: Sistema Universidad  
-**Email**: soporte@universidad.edu  
+**Desarrollador**: Javier García  
+**Email**: alejandroaguilon12@gmail.com  
 **Versión**: 1.0.0  
-**Última actualización**: Octubre 2024
+**Última actualización**: Octubre 2025
